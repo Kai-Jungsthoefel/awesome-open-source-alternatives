@@ -25,6 +25,7 @@ Curating the best open-source alternatives for famous apps.
   - [Adobe InDesign](#adobe-indesign)
   - [Adobe Lightroom](#adobe-lightroom)
   - [Adobe Photoshop](#adobe-photoshop)
+  - [Autodesk Fusion](#autodesk-fusion)
   - [Canva](#canva)
   - [Figma](#figma)
   - [Meshy](#meshy)
@@ -228,6 +229,10 @@ Curating the best open-source alternatives for famous apps.
 - [Krita](https://invent.kde.org/graphics/krita)
 - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion) - Generative fill for Krita. Needs a GPU.
 - [PhotoCraft](https://github.com/storytold/photocraft) - Early alpha. Opens and saves PSD files.
+
+### [Autodesk Fusion](https://www.autodesk.com/products/fusion-360)
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
+- [SOMA](https://github.com/Kai-Jungsthoefel/SOMA) - Parametric CAD where your coding agent writes the model as CadQuery code. Partial replacement.
 
 ### [Canva](https://canva.com)
 - [Penpot](https://github.com/penpot/penpot) - Partial replacement.
